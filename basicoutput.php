@@ -1,3 +1,3 @@
 <?php
 
-echo "The IT department as the Family Building Society rocks";
+echo "The IT department at the Family Building Society rocks";
